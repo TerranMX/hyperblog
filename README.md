@@ -9,4 +9,9 @@ Siento que es un curso super importante para trabajar en equipo en algun proyect
 - Tags.
 - Pull Requests.
 Hecho por José Fco.
+- Git Clean
+- Git stash
+- Git cherry Pick
+
+Hecho por José Fco. aka Terran
 Nota: Este repositorio es solo practica.
